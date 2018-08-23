@@ -16,3 +16,5 @@ This thesis analyses previous research in the field of automatic mixing to find 
 Previous research in the field of automatic mixing is intended to improve mixing for studio recordings. This thesis aims to apply this knowledge to the case of real-time performance where different considerations apply.
 
 Three different versions of unmasking tools between two channels in real-time are developed as a result of this research. Each version implements different techniques with similar objectives but different advantages. The result of using this tools is evaluated both quantitatively and quantitatively to find which one provides the best results. 
+
+This repository contains the Max For Live tools developed and tested during this thesis, as well as the data from the surveys.
