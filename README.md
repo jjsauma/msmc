@@ -18,3 +18,5 @@ Previous research in the field of automatic mixing is intended to improve mixing
 Three different versions of unmasking tools between two channels in real-time are developed as a result of this research. Each version implements different techniques with similar objectives but different advantages. The result of using this tools is evaluated both quantitatively and quantitatively to find which one provides the best results. 
 
 This repository contains the Max For Live tools developed and tested during this thesis, as well as the data from the surveys.
+
+You can contribute to this project by answering the survey: https://jjsauma.typeform.com/to/YeLXyP
