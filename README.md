@@ -20,3 +20,4 @@ Three different versions of unmasking tools between two channels in real-time ar
 This repository contains the Max For Live tools developed and tested during this thesis, as well as the data from the surveys.
 
 You can contribute to this project by answering the survey: https://jjsauma.typeform.com/to/YeLXyP
+Find the thesis document on Zenodo: https://zenodo.org/record/2550903#.YDbwXy1h3T8
